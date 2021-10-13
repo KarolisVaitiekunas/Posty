@@ -1,0 +1,1 @@
+@props(['post'=>$post])
